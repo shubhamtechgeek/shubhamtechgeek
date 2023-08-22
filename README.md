@@ -8,7 +8,7 @@
 
 
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=badge&logo=github&logoColor=white)](https://github.com/shubhamtechgeek)
-[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/shubham-gaikwad-backend/)
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-gaikwad-backend/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/shub_gaik)
 
 
